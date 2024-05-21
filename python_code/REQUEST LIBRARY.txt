@@ -1,0 +1,2 @@
+pip install webbrowser 
+pip install pyinstaller for convert .py in to .EXE
